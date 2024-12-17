@@ -13,3 +13,4 @@ AQI data categorized into levels such as Good, Moderate, Poor, etc., for better 
 5) Drill-Down Capability:
 Explore detailed insights on specific locations and pollutants contributing to AQI.
 
+
